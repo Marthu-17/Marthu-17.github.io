@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Imagen 2</center></h1>
+
+<a href="Index.html">Haga Click aqui para ir al incio</a>
+
+<tr>
+<td>
+<img src="Ejercicio2.png.png" alt="Imagen de un astronauta en paracaídas aterrizando en una mancion de fornite
+</td>
+</body>
+</html>

@@ -1,0 +1,11 @@
+html>
+<head>
+<title> Imagen 3</center></h1>
+
+<a href="Index.html">Haga Click aqui para ir al incio</a>
+
+<tr>
+<td>
+<img src="Ejercicio3.png.png" alt="Imagen de Zeus con un francotirador apuntándole a personas en una montaña
+</body>
+</html>

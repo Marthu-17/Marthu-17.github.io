@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Imagen 1</center></h1>
+
+<a href="Index.html">Haga Click aqui para ir al incio</a>
+
+<tr>
+<td>
+<img src="Ejercicio1.png.png" alt="imagen de petter griffing con una escopeta en la playa
+</td>
+</body>
+</html>
